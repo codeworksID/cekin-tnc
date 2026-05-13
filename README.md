@@ -53,7 +53,7 @@ You have the right to:
 - Request deletion of your data
 - Export your data
 
-To exercise these rights, contact us at support@cekin.app
+To exercise these rights, contact us at cekin-support@codeworks.co.id
 
 ## 8. Data Retention
 
